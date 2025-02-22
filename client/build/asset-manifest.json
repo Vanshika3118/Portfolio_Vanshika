@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50c02d62.css",
+    "main.js": "/static/js/main.c56cb3d4.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/zyromart.png": "/static/media/zyromart.426b56133399148819cb.png",
+    "static/media/skillhive.png": "/static/media/skillhive.02099ddcea1f7b551c39.png",
+    "static/media/pingpong.png": "/static/media/pingpong.322e18c805c37925b36a.png",
+    "static/media/resume.pdf": "/static/media/resume.c4d73888d3c7408c0b52.pdf",
+    "static/media/profile-pic.jpeg": "/static/media/profile-pic.a47b8b5d72084d8241d2.jpeg",
+    "index.html": "/index.html",
+    "main.50c02d62.css.map": "/static/css/main.50c02d62.css.map",
+    "main.c56cb3d4.js.map": "/static/js/main.c56cb3d4.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50c02d62.css",
+    "static/js/main.c56cb3d4.js"
+  ]
+}
